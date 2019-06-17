@@ -95,6 +95,11 @@ def process1_1(process):
 
 
 def validate(df):
+    '''
+    检查数据
+    :param df:
+    :return:
+    '''
     result = True
     for index, row in df.iterrows():
         err = ''
