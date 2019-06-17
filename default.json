@@ -1,0 +1,10 @@
+[
+  {
+    "process_name" : "process1_1",
+    "comment" : "与人事处数据合并",
+    "data_dir" : "/Users/wj/Desktop/2019杭电体检",
+    "source_file" : ["教职工总表.xlsx", "在编人员名单（人事处）2019年.xlsx", "退休人员名单（人事处）2019年.xlsx"],
+    "output_file" : ["体检人员.xls", "外籍人员.xls"],
+    "check_only" : "No"
+  }
+]
